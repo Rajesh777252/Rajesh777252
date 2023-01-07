@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at nayakr589@gmail.com
+- Looking for entry level react js developer jobs
 
 <!---
 Rajesh777252/Rajesh777252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
